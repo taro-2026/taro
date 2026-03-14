@@ -1,0 +1,6 @@
+# Quarto project files
+.quarto/
+_site/
+_book/
+*.html
+!index.html
